@@ -9,7 +9,6 @@
 - [Leetcode数组知识点&题型总结](https://mp.weixin.qq.com/s?__biz=MzI0OTQwMTA5Ng==&mid=2247483819&idx=1&sn=071731261441f702f429ae9fc1b98b84&chksm=e9935bccdee4d2da68f0a62830c23daba65fe81c42f4f04f0f5358f1b76bcf144b70f3b4a30d&token=1778626027&lang=zh_CN#rd)| [github版](https://github.com/huxiaoman7/leetcodebook/blob/master/Array/array.md)
 - [Leetcode链表知识点&题型总结](https://mp.weixin.qq.com/s?__biz=MzI0OTQwMTA5Ng==&mid=2247483830&idx=1&sn=a88aa30e1bd82ed0ea9adabe48b7ec09&chksm=e9935bd1dee4d2c766567e476d567d3811ec4f34fef3644cc04c17cc8f7a8c624b0371b91d24&token=1234289973&lang=zh_CN#rd)|[github版](https://github.com/huxiaoman7/leetcodebook/blob/master/Linklist/linklist.md)
 
-
 ------
 ## LeetCode题目分类
 ### 数组类题目
@@ -93,7 +92,7 @@
 
 #### 二维数组
 | 序号         | 题目                                                         | 难度   | 代码              |
-| ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
+| ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 48           | [Rotate   Image    ](https://leetcode.com/problems/rotate-image) | Medium | python、java、c++ |
 | 54           | [Spiral   Matrix    ](https://leetcode.com/problems/spiral-matrix) | Medium | python、java、c++ |
 | 73           | [Set Matrix Zeroes    ](https://leetcode.com/problems/set-matrix-zeroes) | Medium | python、java、c++ |
@@ -103,7 +102,7 @@
 
 #### 动态规划 
 | 序号         | 题目                                                         | 难度   | 代码              |
-| ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
+| ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 62           | [Unique Paths    ](https://leetcode.com/problems/unique-paths) | Medium | python、java、c++ |
 | 63           | [Unique Paths II    ](https://leetcode.com/problems/unique-paths-ii) | Medium | python、java、c++ |
 | 64           | [Minimum Path Sum    ](https://leetcode.com/problems/minimum-path-sum) | Medium | python、java、c++ |
@@ -111,14 +110,14 @@
 
 #### 二叉树
 | 序号         | 题目                                                         | 难度   | 代码              |
-| ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
+| ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 105          | [Construct Binary   Tree from Preorder and Inorder Traversal    ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium | python、java、c++ |
 | 106          | [Construct Binary   Tree from Inorder and Postorder Traversal    ](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | Medium | python、java、c++ |
 
 
 #### Math
 | 序号         | 题目                                                         | 难度   | 代码              |
-| ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
+| ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 66           | [Plus   One    ](https://leetcode.com/problems/plus-one)     | Easy   | python、java、c++ |
 | 118          | [Pascal's Triangle    ](https://leetcode.com/problems/pascals-triangle) | Easy   | python、java、c++ |
 | 119          | [Pascal's Triangle II    ](https://leetcode.com/problems/pascals-triangle-ii) | Easy   | python、java、c++ |
@@ -126,7 +125,7 @@
 #### 基础
 ##### 基础题目
 | 序号         | 题目                                                         | 难度   | 代码              |
-| ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
+| ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 217          | [Contains Duplicate    ](https://leetcode.com/problems/contains-duplicate) | Easy   | python、java、c++ |
 | 219          | [Contains Duplicate II    ](https://leetcode.com/problems/contains-duplicate-ii) | Easy   | python、java、c++ |
 | 380          | [Insert Delete   GetRandom O(1)    ](https://leetcode.com/problems/insert-delete-getrandom-o1) | Medium | python、java、c++ |
@@ -135,7 +134,7 @@
 
 ##### Search类题
 | 序号         | 题目                                                         | 难度   | 代码              |
-| ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
+| ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 33           | [Search in Rotated Sorted Array    ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | python、java、c++         |
 | 81           | [Search   in Rotated Sorted Array II    ](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | python、java、c++         |
 | 34           | [Find First and Last Position of Element in Sorted   Array    ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | python、java、c++ |
@@ -159,20 +158,20 @@
 
 ##### Remove类题目 
 | 序号         | 题目                                                         | 难度   | 代码              |
-| ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
+| ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 26           | [Remove Duplicates from Sorted   Array    ](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy   | python、java、c++ |
 | 27           | [Remove   Element    ](https://leetcode.com/problems/remove-element) | Easy   | python、java、c++ |
 | 80           | [Remove Duplicates from Sorted Array   II    ](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium | python、java、c++ |
 
 #### 提高题目
 | 序号         | 题目                                                         | 难度   | 代码              |
-| ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
+| ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 4            | [Median of Two Sorted Arrays    ](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard   | python、java、c++ |
 | 289          | [Game   of Life    ](https://leetcode.com/problems/game-of-life) | Medium | python、java、c++ |
 
 #### 综合题
 | 序号         | 题目                                                         | 难度   | 代码              |
-| ------------ | ------------------------------------------------------------ | ------ | ----------------- |       
+| ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 274          | [H-Index](https://leetcode.com/problems/h-index/)                                                      | medium | python、java、c++ |
 | 376          | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)                                           | medium | python、java、c++ |
 | 277          | [Find the Celebrity    ](https://leetcode.com/problems/find-the-celebrity/) | medium | python、java、c++ |
@@ -235,7 +234,6 @@
 | 707        | [Design   Linked List    ](https://leetcode.com/problems/design-linked-list) | Easy   | python、java、c++ |
 | 817        | [Linked   List Components    ](https://leetcode.com/problems/linked-list-components) | Medium | python、java、c++ |
 | 876        | [Middle of the   Linked List    ](https://leetcode.com/problems/middle-of-the-linked-list) | Easy   | python、java、c++ |
-
 
 
 
